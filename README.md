@@ -1,4 +1,4 @@
-Hey there, I'm Eric
+Hey There!
 ---
 ### GitHub Stats
 
